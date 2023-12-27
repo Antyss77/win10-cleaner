@@ -32,7 +32,7 @@ foreach ($scriptFile in $scriptFiles) {
             $scriptPath = Join-Path -Path $scriptsPath -ChildPath $scriptFile.Name
             & $scriptPath
 
-            # Show a success message if necessary
+            # Show a success message
             [System.Windows.MessageBox]::Show("Script executed successfully!", "Script Execution", "OK", "Information")
         } catch {
             # Error while executing the script
