@@ -2,12 +2,13 @@
 
 [![made-with-powershell](https://img.shields.io/badge/PowerShell-1f425f?logo=Powershell)](https://microsoft.com/PowerShell)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![win10-cleaner](https://img.shields.io/badge/beta_v1.0.3-blue)
 
-This PowerShell script initiates the cleaning process for the Temp folder in Windows 10.
+Optimize and clean up your Windows system in a single click with the various scripts in this project.
 
 ## Description
 
-This script uses PowerShell to clean the Temp folder. It searches for temporary files in the Temp directory and attempts to delete them to free up disk space.
+This collection of PowerShell scripts simplifies the process of cleaning and optimizing Windows, offering a fast and effective solution for improving your computer's performance.
 
 ## How to Use
 
